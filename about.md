@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Passionately curious about technology and extreme sports. Learn things more faster and deeper with dumbest ways. I love to solving problems and enjoying writing codes especially when it comes complex and trivial.
+Passionately curious about technology and extreme sports. Learn things more faster and deeper either with dumbest way or smartest play. I love to solving problems and enjoying writing codes especially when it comes complex and trivial.
 
 Writing this blog to improve my writing skills while explain about shared contents and of course to develop technical skills and using various tools.
 
