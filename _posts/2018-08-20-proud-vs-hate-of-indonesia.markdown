@@ -1,9 +1,20 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Proud Vs Hate of Indonesia"
 date:   2018-08-20 22:46:07 +0700
-categories: jekyll update
+categories: life
 ---
+Are you proud to be an Indonesian? Or are you disappointed to be an Indonesian? That's no matter! The matter is, have you already did something for your country?
+
+![Proud Or Hate!](/images/proudvshate.png "Proud Or Hate")
+
+Social media, internet and technologies are being used to help people for daily uses and keep connected while they are in range. Many people use it quite right, but still tons of them are doing bad things with it. **Hate speech**, **provocation**, **racism**, **online bullying**, and **bad content sharing** are across the interconnected computer networks or we could call `internet`. In Indonesia or maybe the other side of the world, people use technology with `Good` or `Bad` intention. But, you might found lots of `Bad` happened.
+
+## Social Media
+Yes, a *feel-free to argue* platform
+`Good:` 
+
+`Bad:`
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
