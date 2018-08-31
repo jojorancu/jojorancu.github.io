@@ -6,7 +6,7 @@ categories: life idea
 ---
 What if I told you be an *anti-mainstream* person / group aren't that bad? What if that being different than other people would gain you profit? In fact, there is almost all successful people takes lonely road.
 
-<!-- Replacement for Image -->
+![REVERSE Sketch Map!](/images/sketchmap_reverse.jpg "Sketch Map")
 
 # Habit by Rules
 
