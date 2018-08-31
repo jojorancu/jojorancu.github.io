@@ -18,8 +18,6 @@ I mean you could do something good as a habit even if you are breaking set of in
 
 # Reverse Time
 
-![REVERSE!](/images/reverse.png "REVERSE")
-
 In my current company that I work with, **Kawan Lama**, we (with my colleagues) have normal habit. It's about the lunch time. Everybody as an employee offered free lunch every single day. We have systems that show every date's menu and record which day (weekly) every single employee order the lunch menu on that day. So when you ordered, you have to attend and tap your ID card right before you got your food and also drinks on the pantry locket. When you did not order the lunch on that day, you have to wait like 15 minutes before the lunch time over OR you could simply go out and find yourself some food, there are lot of foods around the office.
 
 After lunch time we always took down stairs, go out from the office when we still have time and go to nearest **Indomaret** to bought some foods, or something we need to `survive` until office hour is done. Because we are not allowed to get out from the office other than lunch time or it is already time to go home. This is our habit, or we could say this is the most people's habit who work in here. It's the only thing you could do to hang out with friends while you took long walk (let's say doing some sports) and thats legal (LOL). For us who have the habit flows in our blood, it is a must to go to the Indomaret. It is just like instruction or a routine for everyday we did after lunch.
