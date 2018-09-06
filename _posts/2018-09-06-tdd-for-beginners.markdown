@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "TDD For Beginners"
-date:   2018-08-31 20:33:12 +0700
+date:   2018-09-06 18:33:12 +0700
 categories: tech method
 ---
 
